@@ -1,0 +1,1 @@
+# Exoplanet-Transit-Detection-and-Tidal-Locking
